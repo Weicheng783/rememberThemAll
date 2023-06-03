@@ -21,6 +21,7 @@ $filteredFiles = array_filter($files, function ($file) use ($allowedExtensions) 
 
 echo "<h2>Dictation System designed by <a href='https://github.com/Weicheng783' target='__blank'>Weicheng</a>, collaborated with ChatGPT.</h2>";
 echo "<h2>Version May 26, 2023 as a Special Gift. Revised June 3, 2023.</h2>";
+echo "<h2>Personal Project: NO.230603</h2>";
 
 // Handle audio file selection
 if (isset($_POST['audioFile']) or !isset($_POST['audioFile'])) {
