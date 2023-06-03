@@ -3,7 +3,7 @@ Personal Project: NO.230603
 
 This is a skeleton website which used for words automatic dictation, initially designed for a friend for TEM-4.
 
-You are welcome to contribute.
+You are welcome to contribute or generalise.
 
 A words dictation website involves the usage of TTS, PHP and Python3, first written in May 26, 2023, with the assistance of ChatGPT.
 
