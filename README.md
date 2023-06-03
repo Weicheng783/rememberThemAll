@@ -11,6 +11,8 @@ Please give all folders (configs, tem4, uploads, word_lists, voices, new_lists) 
 
 Main Logic: Use PHP with AJAX to handle form submission, Use python3 to parse raw list files and write the results to "configs/" and "word_lists/" folders, Use Google free Text-to-Speech to convert each word into several mp3 files, and store in "voices/"
 
+Currently there is no Safari support in the IOS due to Autoplay restrictions
+
 # Main Files
 
 index.php -- Program Main Logic and UI
