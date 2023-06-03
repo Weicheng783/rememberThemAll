@@ -1,6 +1,8 @@
 # Remember Them All
 This is a skeleton website which used for words automatic dictation, initially designed for a friend for TEM-4.
+
 You are welcome to contribute.
+
 A words dictation website involves the usage of TTS, PHP and Python3, first written in May 26, 2023, with the assistence of ChatGPT.
 Please give all folders (configs, tem4, uploads, word_lists, voices, new_lists) of permission 0777 (execute, read, write).
 Main Logic: Use PHP with AJAX to handle form submission, Use python3 to parse raw list files and write the results to "configs/" and "word_lists/" folders, Use Google free Text-to-Speech to convert each word into several mp3 files, and store in "voices/"
