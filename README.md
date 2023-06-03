@@ -1,4 +1,4 @@
-# rememberThemAll
+# Remember Them All
 This is a skeleton website which used for words automatic dictation, initially designed for a friend.
 Note that the words parser and notification sound files are not included for copyright reasons.
 You are welcome to contribute.
