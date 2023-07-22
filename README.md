@@ -5,7 +5,7 @@ This is a skeleton website which used for words automatic dictation, initially d
 
 You are welcome to contribute or generalise.
 
-A words dictation website involves the usage of TTS, PHP and Python3, first written in May 26, 2023, with the assistance of ChatGPT.
+A words dictation website involves the usage of TTS, PHP and Python3, first written in May 26, 2023.
 
 Please give all folders (configs, tem4, uploads, word_lists, voices, new_lists) of permission 0777 (execute, read, write).
 
